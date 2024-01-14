@@ -1,1 +1,3 @@
-#PYfile-encrypt-er 
+##### PYfile-encrypt-er 
+<HR>
+#####** PYfile-encrypter-Chinese-Sampled **#####
