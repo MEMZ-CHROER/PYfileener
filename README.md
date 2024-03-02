@@ -1,4 +1,5 @@
-##### PYfile-encrypt-er 
+PYfile-encrypt-er 
+PYTHON文件加密器
 <HR>
 PYfile-encrypter-Chinese-Sampled 
 <HR>
